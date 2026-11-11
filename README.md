@@ -1,1 +1,2 @@
-# minor-mini-project-python-RAG-Autara-
+
+# Autara — Enterprise Intelligence Platform
